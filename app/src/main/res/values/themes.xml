@@ -1,0 +1,12 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.InnoBuzzTask" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorA1CCD1</item>
+        <item name="colorSecondary">@color/colorD1A6A1</item>
+        <item name="colorAccent">@color/color01939A</item>
+
+        <item name="colorOnPrimary">@color/_444444</item>
+    </style>
+
+    <style name="Theme.InnoBuzzTask" parent="Base.Theme.InnoBuzzTask" />
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InnoBuzzTask</string>
+    <string name="accessibility_permissions">Accessibility Permissions</string>
+    <string name="posts">Posts</string>
+    <string name="post_details">Post Details</string>
+    <string name="userid">"User-id: "</string>
+    <string name="id">"Id: "</string>
+    <string name="accessibility_service_label">service_label\n</string>
+    <string name="divider">Divider</string>
+    <string name="back_button">Back Button</string>
+</resources>
